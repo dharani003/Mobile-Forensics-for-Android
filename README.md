@@ -27,7 +27,7 @@ Installation:
 Clone the repository:
 
 sh
-git clone https://github.com/dharani003/Mobile-Fornsics-for-Android
+git clone https://github.com/dharani003/Mobile-Forensics-for-Android.git
 cd Mobile-Forensics-for-Android
 
 
