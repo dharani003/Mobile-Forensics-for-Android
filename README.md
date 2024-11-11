@@ -1,5 +1,5 @@
 # Mobile-Forensics-for-Android
-This toolkit is created for the non rooted mobile. It's a beginner level mobile forensic toolkit
+A Simple Android forensic for a non-rooted Mobile
 
 Give the permission to the file "chmod 777 DD_mobileforensic.sh"
 
