@@ -1,4 +1,4 @@
-# Mobile-Forensics-for-Android
+# ANDROID_FORENSIC_TOOLKIT
 A Simple Android forensic for a non-rooted Mobile
 
 Give the permission to the file "chmod 777 DD_mobileforensic.sh"
